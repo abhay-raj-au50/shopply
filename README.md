@@ -1,4 +1,4 @@
-# cofd24db5bf2a34c653230a93
+
 
 Quick start:
 
@@ -19,3 +19,9 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+
+
+Deployement
+https://hilarious-medovik-a10829.netlify.app/
+
